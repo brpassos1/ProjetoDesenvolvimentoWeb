@@ -40,8 +40,8 @@ Este projeto é um e-commerce de pesca inspirado no [Sugoi Big Fish](https://www
 ---
 
 ## 🛠️ **Tecnologias Utilizadas** *(Previsão)*  
-- **Frontend:** React.js, BootStrap.  
-- **Backend:** Java com SpringBoot
+- **Frontend:** React.js, BootStrap, JavaScript
+- **Backend:** JPA/Spring Boot
 - **Banco de Dados:** MySQL
 - **Autenticação:** Firebase Authentication ou OAuth (Google Login).  
 - **Pagamentos:** Integração com Stripe, Mercado Pago ou outra API de pagamentos.  
