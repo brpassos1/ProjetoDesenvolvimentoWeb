@@ -40,9 +40,9 @@ Este projeto é um e-commerce de pesca inspirado no [Sugoi Big Fish](https://www
 ---
 
 ## 🛠️ **Tecnologias Utilizadas** *(Previsão)*  
-- **Frontend:** React.js, Next.js ou outra tecnologia apropriada.  
-- **Backend:** Node.js com Express ou Django.  
-- **Banco de Dados:** PostgreSQL ou MongoDB.  
+- **Frontend:** React.js, BootStrap.  
+- **Backend:** Java com SpringBoot
+- **Banco de Dados:** MySQL
 - **Autenticação:** Firebase Authentication ou OAuth (Google Login).  
 - **Pagamentos:** Integração com Stripe, Mercado Pago ou outra API de pagamentos.  
 
@@ -56,5 +56,5 @@ Este projeto está licenciado sob a **MIT License**. Veja o arquivo [`LICENSE`](
 ## 🤝 **Contribuição**  
 Fique à vontade para sugerir melhorias, reportar problemas ou contribuir para o projeto.  
 
-📩 **Contato:** _Seu e-mail ou rede social_  
+📩 **Contato:** brpassos19@gmail.com
 
