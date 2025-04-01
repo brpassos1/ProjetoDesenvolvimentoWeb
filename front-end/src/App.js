@@ -29,7 +29,7 @@ function App() {
   }, []);
   return (
     <div className="App">
-      <p>{msgs}</p>
+      <h1>{msgs}</h1>
     </div>
   );
 }
